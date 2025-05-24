@@ -6,4 +6,4 @@ See `./use-qemu-to-boot-linux-kernel-initrd.sh`
 
 # See also
 
-How do I build my own minimal linux kernel/distro? See [minimal-linux-boot-coreutils](https://github.com/KarmaComputing/minimal-linux-boot-coreutils)
+How do I build my own minimal linux kernel/distro with basic `ip` / `iputils` commands and networking? See [minimal-linux-boot-coreutils](https://github.com/KarmaComputing/minimal-linux-boot-coreutils)

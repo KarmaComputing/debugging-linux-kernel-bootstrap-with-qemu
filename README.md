@@ -1,7 +1,8 @@
 # Easily debug a linux kernel options bootstrap / startup with qemu
 
-See `./use-qemu-to-boot-linux-kernel-initrd.sh`
+Video overview 📹: https://www.youtube.com/watch?v=0qENgtpKOro
 
+See `./use-qemu-to-boot-linux-kernel-initrd.sh`
 
 # See also
 
